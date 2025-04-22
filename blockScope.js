@@ -43,3 +43,5 @@ console.log(weather); // ✅ Output: It's sunny today!
 //to save codes in github: 1. git add . 2. git commit -m "version1" 3. git push...
 //to see vs code in github: . enter
 //to get something many times use: div*3 enter : .section*3
+
+const newArrow = () => {};
